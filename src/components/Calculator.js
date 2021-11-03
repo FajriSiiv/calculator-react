@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import CalculatorKey from "./keypad";
 import styled from "styled-components";
 import KeyCalc from "./KeyCalc";
 
